@@ -1,0 +1,362 @@
+:root {
+    --primary: #103178;
+    --secondary: #ffc800;
+    --backgroundgray: #f0f2f5;
+    --textcolor: #5b6c8f;
+    --greentextcolour: #8ad4ae;
+    --graycolorbg: #f5f6f9;
+    --textcolors1: #2b2b2b;
+    --bgcolor: #f5f6f9;
+    --fcolor: #979797;
+}
+
+.clas {
+    background-color: black;
+}
+
+.class_white {
+    color: white;
+}
+
+.class_black {
+    color: black;
+}
+
+.text_end {
+    text-align: end;
+}
+
+.text_left {
+    text-align: left;
+}
+
+.fontpoppins p {
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+}
+
+.font_size {
+    font-size: 18px;
+}
+
+.font_size1 {
+    font-size: 12px;
+}
+
+.font_description {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.font_pro {
+    font-weight: lighter;
+    font-style: italic;
+    font-size: 12px;
+    color: var(--greentextcolour);
+}
+
+.font_assign {
+    font-size: 8px;
+}
+
+.gray_bg {
+    background-color: var(--graycolorbg);
+}
+
+.text_colortop {
+    color: var(--textcolors1);
+    font-size: 16px;
+}
+
+.aligncenter {
+    text-align: center;
+}
+
+.font_feature {
+    font-weight: bold;
+    font-size: 26px;
+}
+
+.bg-color {
+    background-color: var(--bgcolor);
+}
+
+.font_last {
+    font-size: 14px;
+}
+
+.greencolor {
+    color: var(--greentextcolour);
+}
+
+.alignment {
+    text-align: center;
+}
+
+.background_colour {
+    background-color: #f5f6f9;
+}
+
+.font_col {
+    color: var(--fcolor);
+    font-size: 15px;
+}
+
+.dimensions {
+    height: 105px;
+    width: 105px;
+    object-fit: contain;
+    align-content: center;
+}
+
+.icon_dimensions {
+    height: 35px;
+    width: 35px;
+    object-fit: contain;
+}
+
+.image_contain {
+    object-fit: contain;
+}
+
+.imagewl {
+    width: 300px;
+    height: 450px;
+    object-fit: contain;
+}
+
+.card-with-button {
+    position: relative;
+}
+
+.overlay-button {
+    position: absolute;
+    width: 40px;
+    top: 5px;
+    left: 195px;
+}
+
+.card-img-overlay2 {
+    display: none;
+}
+
+.hover_class:hover .card-img-overlay2 {
+    display: block;
+}
+
+.btn_position {
+    height: 40px;
+    width: 40px;
+}
+
+.img-overlay {
+    display: none;
+}
+
+.email-lab {
+    width: 280px;
+    height: 100px;
+    border-radius: 5px;
+}
+
+.box {
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+}
+
+.outerbox {
+    position: relative;
+}
+
+table,
+td,
+th {
+    border: 1px solid #ddd;
+    text-align: left;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th,
+td {
+    padding: 15px;
+}
+
+.coupon_email {
+    width: 490px;
+    height: 30px;
+}
+
+.input_label {
+    height: 30px;
+    width: 500px;
+}
+
+.dropdown {
+    width: 490px;
+}
+
+.font_pixel {
+    font-size: 14px;
+}
+
+.proceed_button {
+    width: 200px;
+    height: 60px;
+}
+
+.boyheight {
+    height: 700px;
+    width: 720px;
+}
+
+.text_decoration{
+text-decoration: none;
+border: none;
+}
+.text_decoration th,
+.text_decoration td {
+    border: none !important;
+}
+
+.list-style_prop{
+
+    list-style-type: none;
+} 
+
+
+
+
+.input_dimensions
+{
+
+    width: 80px;
+}
+
+
+.border_a{
+    border: 5px solid red;
+
+}
+
+
+.lightgraycolor{
+background-color: lightgray;
+
+}
+
+.widthbutton{
+
+width: 180px;
+
+}
+
+.colorFontcolor{
+    color: black;
+}
+
+.selectsize1{
+    width: 200px;
+}
+
+
+.selectsize{
+
+    width: 200px;
+}
+
+.rightmove{
+
+justify-content: right;
+}
+
+.leftmove{
+    padding: 30px;
+margin-left: 50px;
+width: 100%;
+}
+
+
+a {
+    color: black;
+}
+
+.boy_image{
+    
+}
+.boy_image img{
+    width: 100px;
+    height: 100px;
+object-fit: none;
+}
+
+
+
+.buttonsize_xl{
+height: 300px;
+width: 500px;
+   
+}
+
+
+
+
+.relative {
+    position: relative;
+    width: 300px;
+    height: 190px;
+  } 
+  
+.absolute {
+    position: absolute;
+    top: 45px;
+    left: 45px;
+    right: 47px;
+    width: 180px;
+    height: 71px;
+  }
+
+.font_btn{
+
+    font-size: 14px;
+}
+.range_slider{
+
+    width :350px;
+}
+
+.labelhw{
+    width: 85px;
+}
+
+.margin_button_left{
+    margin-right: 100px;
+}
+
+
+
+.btn_size{
+
+width: 100px;
+
+}
+
+.arrowimage{
+    width: 25px;
+   height: 25px;
+}
+
+.arrowimage img{
+   
+}
+
+
+.bgtextcol{
+    background-color: lightgray;
+    color: black;
+
+}
